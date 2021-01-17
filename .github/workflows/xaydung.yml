@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
-  ROM_NAME: Generic
+  ROM_URL: https://doc-0o-a4-docs.googleusercontent.com/docs/securesc/478vjqdviqajtmv2euuhe2tj7f0i4pe2/rj1jj7128umc4iqha84sfve4vt253g4i/1610913750000/14711160669459401369/14711160669459401369/1huUosK_vaXk-mtm3kY5LGOpuoCh-0QDM?e=download&authuser=0&nonce=gpdeafifqgv2u&user=14711160669459401369&hash=7v1b2l4bqk53ho4uehr3o9fopamj3ejk
+  ROM_NAME: Generic MIUI OxygenOS Pixel
   BUILD_AB: true
-  BUILD_Aonly: false
-  ROM_AONLY: ROM_A.7z
-  ROM_AB: ROM_AB.7z
+  BUILD_Aonly: true
+  ROM_AONLY: ROM_A-BLSHELLO-1.7z
+  ROM_AB: ROM_BLSHELLO.7z
 
 jobs:
   build:
