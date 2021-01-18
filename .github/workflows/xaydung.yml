@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
+  ROM_URL: https://download1582.mediafire.com/zz19x55wokfg/1vwbzant7triimm/%5BSFMobile%5DKLEN2002240OS00DPX.zip
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: false
